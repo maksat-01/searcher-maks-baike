@@ -1,0 +1,54 @@
+@media (max-width: 1440px) {
+.container {
+  width: 90%;
+}
+}
+
+@media (max-width: 1200px) {
+  #sell .sell--general__title--icon {
+    width: 925px;
+  }
+  #footer .footer .footer--general__title--click {
+    display: none;
+  }
+}
+
+@media (max-width: 1024px) {
+  #sell .sell--general__title--icon {
+    width: 805px;
+  }
+  .header--general {
+    display: none;
+    .hamburger-menu {
+      display: block;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 450px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
+
+@media (max-width: 375px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
